@@ -1,2 +1,2 @@
-# PRODIGY-CS-01
+# Ceaser cipher Algorithm
 Ceaser cipher Algorithm
